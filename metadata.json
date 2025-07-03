@@ -1,0 +1,6 @@
+{
+  "name": "NaijaScholar AI",
+  "description": "An AI-powered mobile app to help Nigerian secondary students prepare for WASSCE, NECO & JAMB exams. It features a personalized AI tutor, mock tests, and performance analytics.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

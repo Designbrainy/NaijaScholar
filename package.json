@@ -1,0 +1,10 @@
+{
+  "name": "naijascholar-ai-functions",
+  "version": "1.0.0",
+  "description": "Serverless functions for NaijaScholar AI",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "@netlify/functions": "^2.6.0"
+  }
+}
